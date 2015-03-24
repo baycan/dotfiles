@@ -13,10 +13,10 @@
 [sendemail]
 	smtpencryption = tls
 	smtpserver = smtp.gmail.com
-	smtpuser = fatih.asici@gmail.com
+	smtpuser = baycan.vural@gmail.com
 	smtpserverport = 587
 [svn]
 	rmdir = true
 [user]
-	email = fatih.asici@gmail.com
-	name = Fatih Aşıcı
+	email = baycan.vural@gmail.com
+	name = Baycan Vural

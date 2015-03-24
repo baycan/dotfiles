@@ -24,6 +24,6 @@ alias scp-resume="rsync --compress-level=3 --partial --progress --rsh=ssh"
 
 export EDITOR=vim
 
-DEBEMAIL="fatih.asici@gmail.com"
-DEBFULLNAME="Fatih Aşıcı"
+DEBEMAIL="baycan.vural@gmail.com"
+DEBFULLNAME="Baycan Vural"
 export DEBEMAIL DEBFULLNAME
